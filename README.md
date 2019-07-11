@@ -1,2 +1,1 @@
-# RMOTR-Students-Manual
-Public manual for RMOTR Students
+# 👉[Read the Student's Manual](https://github.com/rmotr/RMOTR-Students-Manual/wiki) 👈
